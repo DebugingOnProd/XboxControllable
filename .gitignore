@@ -1,0 +1,6 @@
+XboxControllable.iml
+.gradle/
+gradle/
+run/
+.idea/
+build/
