@@ -9,7 +9,9 @@ import org.lhq.ui.RingScreen;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+* 输入处理器
+*/
 public class InputHandlers {
 
 
@@ -21,6 +23,7 @@ public class InputHandlers {
     }
 
     /**
+     * 返回这个客户端是否存在按钮绑定
      * Returns whether the client is in an inventory or not.
      *
      * @param client  the client instance
