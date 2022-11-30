@@ -28,6 +28,7 @@ public class InputManager {
     protected InputManager() {
     }
     /**
+     * 返回这个案件绑定是否已经存在
      * Returns whether the specified binding is registered or not.
      *
      * @param binding the binding to check
